@@ -1,5 +1,5 @@
 ## 👋 Hey devs
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-5/465859183250767882.png" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/465859183250767882" /> </p>
 
 ![Fraga Github stats](https://github-readme-stats.vercel.app/api?username=buenindvl&show_icons=true&theme=tokyonight)
 
