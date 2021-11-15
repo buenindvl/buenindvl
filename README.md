@@ -12,7 +12,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="right" alt="bueno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/909590156560957444/909804855915348018/338224_ycPtjK7k.png"=676">
+<img align="right" alt="bueno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/909590156560957444/909843985940508723/reina-kousaka-hibike-euphonium.gif"=676">
 </div><br/>
 
 
