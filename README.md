@@ -2,7 +2,7 @@
 # I'm a high school student, who loves anime and discord bots a lot, and also likes to make bots, lately I have to share my school time with my discord schedule D: 
 ![](https://media.discordapp.net/attachments/861211864028938254/964288284404621332/wp2925028.jpg)
 
-<a href="https://github.com/Tsuk1ko">
+
   <table>
     <tr>
       <td>
