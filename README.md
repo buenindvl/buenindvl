@@ -1,4 +1,4 @@
-## 🧑‍🎓 studying programming
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A236F7&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 ![](https://media.discordapp.net/attachments/861211864028938254/964288284404621332/wp2925028.jpg)
 
@@ -16,3 +16,4 @@
 </a>
 
 [![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/buenindvl)
+<hr> <h3 align='center'> 🌠 The stars are infinite like my dreams </h3>
