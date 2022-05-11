@@ -1,5 +1,5 @@
 ## 🧑‍🎓 studying programming
-# I'm a high school student, who loves anime and discord bots a lot, and also likes to make bots, lately I have to share my school time with my discord schedule D: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A236F7&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
 ![](https://media.discordapp.net/attachments/861211864028938254/964288284404621332/wp2925028.jpg)
 
 
