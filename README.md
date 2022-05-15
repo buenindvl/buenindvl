@@ -15,5 +15,5 @@
   </table>
 </a>
 
-[![](https://count.getloli.com/get/@buenindvl)](https://github.com/buenindvl)
+[![](https://count.getloli.com/get/@buenindvl?theme=rule34)](https://github.com/buenindvl)
 <hr> <h3 align='center'> 🌠 The stars are infinite like my dreams </h3>
