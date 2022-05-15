@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A236F7&lines=Welcome+to+my+profile.)](https://git.io/typing-svg)
-![](https://media.discordapp.net/attachments/861211864028938254/964288284404621332/wp2925028.jpg)
+![](https://media.discordapp.net/attachments/928069372759646268/975453823143395339/AN_The-Great-Jahy-Will-Not-Be-Defeated.jpg)
 
 
   <table>
